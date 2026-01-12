@@ -16,8 +16,8 @@
 - **Maps**: OpenStreetMap с полной обратной совместимостью пользовательских данных.
 - **State Management**: BLoC для управления состоянием и данными.
 
-![Запись экрана 2026-01-12 в 12 45 29](https://github.com/user-attachments/assets/56da7c72-983d-4583-aa08-63b15c6539a9)
-![Запись экрана 2026-01-12 в 12 09 55](https://github.com/user-attachments/assets/a321d6d1-6f55-490d-a58b-942416c063ea)
-<img width="494" height="985" alt="Снимок экрана 2026-01-12 в 12 06 56" src="https://github.com/user-attachments/assets/16108c5e-020c-4979-a8ee-b1e983b1e4b8" />
-<img width="494" height="985" alt="image" src="https://github.com/user-attachments/assets/7604ed22-f42a-4b70-a826-1542738068e6" />
-<img width="430" height="881" alt="image" src="https://github.com/user-attachments/assets/a37bcb2c-46d9-459d-a7f9-9608cdef1db9" />
+<img width="250" height="490" alt="Запись экрана 2026-01-12 в 12 45 29" src="https://github.com/user-attachments/assets/56da7c72-983d-4583-aa08-63b15c6539a9" />
+<img width="250" height="490" alt="Запись экрана 2026-01-12 в 12 09 55" src="https://github.com/user-attachments/assets/a321d6d1-6f55-490d-a58b-942416c063ea" />
+<img width="250" height="490" alt="Снимок экрана 2026-01-12 в 12 06 56" src="https://github.com/user-attachments/assets/16108c5e-020c-4979-a8ee-b1e983b1e4b8" />
+<img width="250" height="490" alt="image" src="https://github.com/user-attachments/assets/7604ed22-f42a-4b70-a826-1542738068e6" />
+<img width="250" height="490" alt="image" src="https://github.com/user-attachments/assets/a37bcb2c-46d9-459d-a7f9-9608cdef1db9" />
