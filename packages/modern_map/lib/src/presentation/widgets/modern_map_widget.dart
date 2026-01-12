@@ -400,7 +400,7 @@ class _ModernMapWidgetState extends State<ModernMapWidget>
                           backgroundColor: Colors.white,
                           child: const Icon(
                             Icons.navigation,
-                            color: Colors.blue,
+                            color: Colors.deepPurple,
                           ),
                         ),
                       ],

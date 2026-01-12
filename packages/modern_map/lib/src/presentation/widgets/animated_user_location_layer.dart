@@ -116,7 +116,7 @@ class _AnimatedUserLocationLayerState extends State<AnimatedUserLocationLayer>
                 angle: heading * (pi / 180),
                 child: const Icon(
                   Icons.navigation,
-                  color: Colors.blue,
+                  color: Colors.deepPurple,
                   size: 44,
                 ),
               ),
